@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Joe Ton, Full Stack developer.  I have been focusing on blockchain and Web3, building smart contracts and decentralized apps (dApps) using Rust, JavaScript/TypeScript, React, and Node.
 
 <!--
 **JoeTonDev/JoeTonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
