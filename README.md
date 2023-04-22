@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Joe Ton, Full Stack developer.  I have been focusing on blockchain and Web3, building smart contracts and decentralized apps (dApps) using Rust, JavaScript/TypeScript, React, and Node.
+Full Stack developer with focus on smart contract and decentralized app.  I'm looking to collaborate on any blockchain and Web3 project. Rust, JavaScript/TypeScript, React, and Node.
 
 
 
