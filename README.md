@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full Stack developer focusing on smart contracts and decentralized apps.  I'm looking to collaborate on any blockchain and Web3 project. Rust, JavaScript/TypeScript, React, and Node. You can reach me on Twitter @ebbnflowalgo
+Full Stack developer focusing on smart contracts and decentralized apps.  I'm looking to collaborate on any blockchain and Web3 project. Rust, JavaScript/TypeScript, React, and Node. 
 
 
 
