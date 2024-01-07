@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full-stack developer focusing on APIs and algorithmic trading.  I'm looking to collaborate on any algorithmic trading project. Rust, JavaScript/TypeScript, React, and Node. 
+Full-stack developer focusing on APIs and algorithmic trading.  I'm looking to collaborate on any algorithmic trading project. Rust, Python, Typescript, React. 
 
 
 
