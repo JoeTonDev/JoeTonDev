@@ -1,5 +1,5 @@
 ### Hi there 👋
-Back-end developer focusing on web API development and algorithmic trading.  I'm looking to collaborate on any algorithmic trading projects. Rust, Python, Typescript. 
+Backend developer focusing on web API development and algorithmic trading.  I'm looking to collaborate on any algorithmic trading projects. Rust, Python, Typescript. 
 
 
 
