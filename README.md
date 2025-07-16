@@ -1,5 +1,5 @@
 ### Hi there 👋
-Backend developer focusing on web API development.  I'm looking to collaborate on any backend projects. Rust, and Python. 
+Backend developer focusing on agentic AI development.  I'm looking to collaborate on any backend projects. Rust, and Python. 
 
 
 
