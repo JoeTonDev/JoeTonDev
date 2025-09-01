@@ -1,5 +1,5 @@
 ### Hi there 👋
-Backend developer focusing on agentic AI development.  I'm looking to collaborate on any backend projects. Rust, and Python. 
+Backend developer focusing on algorithmic trading and agentic AI development.  I'm looking to collaborate on any backend projects. Rust and Python. 
 
 
 
